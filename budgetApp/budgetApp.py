@@ -6,8 +6,7 @@ Created on Fri Apr 16 21:58:28 2021
 """
 
 class Budget:
-    """Instantiate objects based on different budget categories."""
-
+    
     def __init__(self, name):
         """Initialize the category."""
         self.name = name
